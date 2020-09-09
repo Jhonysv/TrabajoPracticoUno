@@ -1,0 +1,7 @@
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\obj\Debug\Trabajo Practico Uno.csprojAssemblyReference.cache
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\obj\Debug\Trabajo Practico Uno.csproj.CoreCompileInputs.cache
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\bin\Debug\Trabajo Practico Uno.exe.config
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\bin\Debug\Trabajo Practico Uno.exe
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\bin\Debug\Trabajo Practico Uno.pdb
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\obj\Debug\Trabajo Practico Uno.exe
+C:\Users\jonathansilva\OneDrive - TGLT SA\Silva\OneDrive - TGLT SA\Escritorio\Estructura De datos\Trabajo Practico Uno\Trabajo Practico Uno\obj\Debug\Trabajo Practico Uno.pdb
